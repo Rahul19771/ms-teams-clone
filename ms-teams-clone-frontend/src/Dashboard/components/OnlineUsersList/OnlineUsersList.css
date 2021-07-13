@@ -1,0 +1,30 @@
+.online_user_list_container {
+  width: 100%;
+  height: 100%;
+  
+}
+
+.online_user_list_item {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  transition: 0.3s;
+}
+
+.online_user_list_item:hover {
+  background-color: #4844b1;
+}
+
+.online_user_list_text {
+  font-size: 24px;
+}
+
+.online_user_list_image_container {
+  width: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.online_user_list_image {
+  width: 100%;
+}
